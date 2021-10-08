@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Evelyn Cleto
 
-- 🌱 Estudando Java
+- 🌱 Desenvolvedora Web e Android
 - 😄 Pronouns: ela/dela
 
 
