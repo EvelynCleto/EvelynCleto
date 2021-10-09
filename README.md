@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Evelyn Cleto
 
-- 🌱 Desenvolvedora Web e Android
+- 🌱 Desenvolvedora 
 - 😄 Pronouns: ela/dela
 
 
