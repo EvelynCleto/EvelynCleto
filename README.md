@@ -1,7 +1,7 @@
-## Olá! Eu sou a Evelyn Cleto
+## Hi! I'm Evelyn Cleto
 
-- 🌱 Desenvolvedora 
-- 😄 Pronouns: ela/dela
+- 🌱 Developer 
+- 😄 Pronouns: she/her
 
 
 <div>
