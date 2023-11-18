@@ -16,9 +16,7 @@
   
 <br>
 
-<div align="center">
-  <img src="https://github.com/EvelynCleto/EvelynCleto/blob/main/assets/tech-stack.png" width="600" alt="Tech Stack">
-</div>
+
 
 <br>
 
